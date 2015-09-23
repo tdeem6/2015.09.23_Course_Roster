@@ -1,0 +1,25 @@
+.jumbotron {
+  background-image: url(img/blackboard.jpg)
+}
+
+.vertical-center {
+  min-height: 50%;
+  min-height: 50vh;
+
+  display: flex;
+  align-items: center;
+}
+
+.jumbotron h1 {
+  text-align: center;
+  color: white;
+}
+
+.jumbotron h3 {
+  text-align: center;
+  color: #C8E9D3;
+}
+
+body {
+  background-image: url(img/bookshelf.jpg)
+}
