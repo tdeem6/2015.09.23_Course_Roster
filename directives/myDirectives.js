@@ -5,9 +5,9 @@ courseRoster.directive("hometext", function() {
 });
 
 courseRoster.directive("changeClass", function() {
-  return function (scope, element) {
+  return function (scope, element, attrs) {
     element.bind("click", function() {
-      element.toggleClass("bg-danger");
+      element.toggleClass(attrs.changeClass);
     });
   }
 });
