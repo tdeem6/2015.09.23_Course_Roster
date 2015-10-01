@@ -9,7 +9,9 @@ began: 09/23/2015
 
 ### Description:
 
-Simple app made with angular learning the basics of angular-ui-router. Builds on previous projects using controllers and factories.
+Simple app made with angular learning the basics of angular-ui-router. Builds on previous projects using controllers and factories. 
+
+Now broken with addition of directives, need to re-work CSS code.
 
 
 ### Setup:
